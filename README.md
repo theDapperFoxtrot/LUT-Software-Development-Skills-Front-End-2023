@@ -40,3 +40,5 @@ This made it clear which styles were being applied to which elements, and also m
 Overall, I'm really pleased with how the homepage is coming along, and I'm looking forward to getting more practice with animations to create what people call a more modern website. I'm somewhat anti-animations, but I know that they're necessary to please audiences at times. Personally, I think animations only serve a specific audience, and I'd rather put more emphasis on catoring to accessibility needs than flashy graphics.
 
 Today I move on to Part 3.
+
+Edit: I forgot to mention, Traversy Media was teaching people to set up a 'manual' way of refreshing the page while using Sass, but I prefer to use the VS Code extension to simplify the process. It auto creates the necessary files with one click. It was really nice to see how the extension is working under the hood though.
