@@ -42,3 +42,14 @@ Overall, I'm really pleased with how the homepage is coming along, and I'm looki
 Today I move on to Part 3.
 
 Edit: I forgot to mention, Traversy Media was teaching people to set up a 'manual' way of refreshing the page while using Sass, but I prefer to use the VS Code extension to simplify the process. It auto creates the necessary files with one click. It was really nice to see how the extension is working under the hood though.
+
+Date: May 16th, 2023
+
+I had to take a short break from the course to deal with work. Now I have a lot more time to dedicate to my studies and review so much material. This Traversy Media tutorial is a great reminder of the power behind using SASS, and I'm enjoying rediscovering a lot of properties I hadn't used for many months. Like any language - use it or lose it!
+
+Onto Part 4.
+
+It was very nice to reacquaint myself with the sorts of styling animations that I have long avoided. When you find yourself to not be very artistic, and care more about programming the functionality of an app, you tend to really appreciate when someone can demonstrate some interesting possibilities you might never have thought of on your own.
+
+I was especially impressed by the for loop used in SASS to create an interesting effect with the menu loading in.
+
