@@ -56,3 +56,5 @@ I was especially impressed by the for loop used in SASS to create an interesting
 Date: May 17th, 2023
 
 There's so many properties, let alone functionality in sass, that exist. It's a wonder if and when a developer will even use them. The majority of my styling has been very flex-centric, but now I'm getting some practical usage with grid. Even when I used grid, I hadn't heard of template areas as a way to make a scheme for placing elements on a page. I'm sure it gets much more advanced, but I'm even impressed with the simple example in this tutorial.
+
+End of part 5.
