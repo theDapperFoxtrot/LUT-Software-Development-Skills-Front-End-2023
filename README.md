@@ -58,3 +58,11 @@ Date: May 17th, 2023
 There's so many properties, let alone functionality in sass, that exist. It's a wonder if and when a developer will even use them. The majority of my styling has been very flex-centric, but now I'm getting some practical usage with grid. Even when I used grid, I hadn't heard of template areas as a way to make a scheme for placing elements on a page. I'm sure it gets much more advanced, but I'm even impressed with the simple example in this tutorial.
 
 End of part 5.
+
+Date: May 19th, 2023
+
+I completed the Traversy Media tutorial. I already had an awareness of how to host a site on both Netlify and using Github Pages, but it was a nice review. The one thing I'm a bit unclear about is hosting multiple directories using Github Pages. For the sake of making navigating to the tutorial project easier, I've removed the original folders I had (Coureswork/Part1), because I didn't end up breaking each part into separate branches.
+
+For my project, I'd like to apply the skills practiced in the tutorial and make a website for a local cafe. This makes the project practical, and gives me incentive to focus on quality of the finished product. I'm not sure if that deviates too much from the course expectations or not, but I'm hoping that it will be welcome, since it will show that I can build something using the skills and not copying the foundation of the tutorial and simply editing it.
+
+I will make a separate repo for it, and then explain how to access it in this readme at the top. Maybe I'll add a link to the cafe site as well via the tutorial project, just to ensure it isn't missed.
