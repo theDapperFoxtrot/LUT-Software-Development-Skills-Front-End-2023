@@ -66,3 +66,9 @@ I completed the Traversy Media tutorial. I already had an awareness of how to ho
 For my project, I'd like to apply the skills practiced in the tutorial and make a website for a local cafe. This makes the project practical, and gives me incentive to focus on quality of the finished product. I'm not sure if that deviates too much from the course expectations or not, but I'm hoping that it will be welcome, since it will show that I can build something using the skills and not copying the foundation of the tutorial and simply editing it.
 
 I will make a separate repo for it, and then explain how to access it in this readme at the top. Maybe I'll add a link to the cafe site as well via the tutorial project, just to ensure it isn't missed.
+
+Date: May 22nd, 2023
+
+After some futher consideration, the complexity (or lack thereof) of this site doesn't necessitate using the React library. It's creating unnecessary snags in deployment, and while I could keep grinding away to overcome it, the payoff versus making a site with Vanilla JS is zero.
+
+I'm going to create it the imperative way in the interest of time. Since I have courses starting soon, and I would like to submit this project and have the course graded.
