@@ -1,5 +1,15 @@
 # Software-Development-Skills-Front-End-2023
+
+Showcase of my working project here: https://www.youtube.com/live/HNirdqHrUjQ
+I used a separate repo for my project submission because it is a project I will continue to improve on beyond this course, as it serves a real business in Helsinki.
+The project submission: https://github.com/theDapperFoxtrot/lloyds-cafe
+You can find it hosted at: https://lloydscafe.netlify.app/
+
 ## Learning Diary
+
+Date May 24th, 2023
+
+I've been a little busy with starting my business, but I finally got a minimum viable product created for my project submission to complete this course. My final thoughts and description of the project are in this YouTube video: https://www.youtube.com/live/HNirdqHrUjQ
 
 Date: May 10th, 2023
 
